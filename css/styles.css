@@ -1,0 +1,35 @@
+
+
+.my-container{
+  width: 250px;
+  margin: 25px auto;
+  max-width: 1000px;
+  text-align: center;
+  color: #00aaff;
+
+
+}
+
+.search-button{
+  color: white;
+  border-radius: 4px;
+  text-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
+  background-color: #ff66d9;
+  width: 188px;
+  margin: 0px auto;
+}
+
+
+
+h1{
+     font-family: 'Fjalla One', sans-serif;
+     width: 250px;
+     margin: 25px auto;
+     color: #00aaff;
+
+
+}
+
+body{
+    background-color: #99ff99;
+}
